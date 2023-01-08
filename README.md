@@ -1,13 +1,12 @@
 
 ## Hello GitHub Fans 👋
----
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ### I'm Timmmion :)
 
 - Self learing programmer at the time ⭐
 - 🌱 Currently going to school.
-- 💬 Ask me about Java, C# and my projects on Discord [Timmmion#4674](Discord.com)
+- 💬 Ask me about Java, C# and my projects on Discord [Timmmion#4674]
 - ⚡ Fun fact: Data Analysis📊
 
 ### 🛠 Tech Stack
