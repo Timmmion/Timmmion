@@ -8,7 +8,7 @@
 - 🌱 Currently going to school.
 - 💬 Ask me about Java, C# and my projects on Discord [ Timmmion#4674 ]
 
-### 🛠 Tech Stack
+### 🛠 Tech
 
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
